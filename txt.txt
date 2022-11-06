@@ -1,0 +1,2 @@
+https://swiperjs.com/demos 
+https://kenwheeler.github.io/slick/
