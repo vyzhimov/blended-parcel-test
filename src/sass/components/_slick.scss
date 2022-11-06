@@ -1,0 +1,20 @@
+ .red {
+     width: 300px;
+ }
+
+ .one-time {
+     width: 300px;
+     background-color: aqua;
+     margin: 0 auto;
+ }
+
+ img {
+     display: block;
+     max-width: 100%;
+     height: auto;
+ }
+
+ .slick-next:before,
+ .slick-prev:before {
+     color: crimson;
+ }
